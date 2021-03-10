@@ -1,0 +1,26 @@
+body{
+  background-color:#ddf3f5;
+}
+hr{
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:5%;
+
+}
+h1{
+  color:black;
+}
+h3{
+  color:black;
+}
+p{ border-style: double;
+border-color: black;
+}
+img{
+  border-radius: 100%;
+}
+.football:hover{
+  background-color: gold;
+}
